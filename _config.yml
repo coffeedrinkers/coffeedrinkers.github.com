@@ -1,10 +1,10 @@
 title:            coffeedrinkers.org
 description:      A place for Coffee Drinkers to Read About Coffee Items
 logo:             site-logo.png
-disqus_shortname: stvlange
+disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              https://coffeedrinkers.org
+url:              http://coffeedrinkers.org
 
 # Owner/author information
 owner:
