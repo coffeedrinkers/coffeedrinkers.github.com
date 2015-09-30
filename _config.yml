@@ -1,20 +1,50 @@
-# Site wide configuration
+title:            coffeedrinkers.org
+description:      A place for Coffee Drinkers to Read About Coffee Items
+logo:             site-logo.png
+disqus_shortname: stvlange
+search:           true
+# Change url to your domain. Leave localhost server or blank when working locally.
+url:              https://coffeedrinkers.org
 
-title:            Coffee Drinkers
-locale:           en_US
-url:			  http://coffeedrinkers.org
+# Owner/author information
+owner:
+  name:           Stephen Lange
+  avatar:         bio-photo-lange.png
+  email:          stvlange@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        
+  facebook:       
+  github:         coffeedrinkers
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    
 
+# Analytics and webmaster tools stuff goes here
+google_analytics: 
+google_verify:     
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify: 
 
-# Jekyll configuration
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Archive
+    url: /articles/
+  - title: About
+    url: /about/
 
-permalink:   /:categories/:title/
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    US/Central
+future:      true
+highlighter:    pygments
 markdown:    kramdown
-highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
 
 kramdown:
   auto_ids: true
@@ -23,39 +53,13 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-
-# Site owner
-owner:
-  name: Stephen Lange
-  avatar: bio-photo-lange.jpg
-  bio: "Coffee Addict, Dad & Dude"
-  email:
-  disqus-shortname:
-  twitter: stvlange
-  facebook: 
-  google:
-    plus: 
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: coffeedrinkers
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
