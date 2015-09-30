@@ -14,7 +14,7 @@ share: true
 author: muchocheko
 ---
 
-![Aerobie AeroPress](/images/aero_press_03.thumbnail.jpg){: .pull-right}Let me sum up my experience with the Aerobie AeroPress this way; after a week of using the AeroPress, I made a pot of coffee in my auto drop coffee pot and it was putrid compared to the previous week’s coffee made with the AeroPress.
+![Aerobie AeroPress](/images/aeropress-hero-260.jpg){: .pull-right}Let me sum up my experience with the Aerobie AeroPress this way; after a week of using the AeroPress, I made a pot of coffee in my auto drop coffee pot and it was putrid compared to the previous week’s coffee made with the AeroPress.
 
 
 I couldn’t believe the difference in the taste. The Aeropress made a better, stronger, and smoother cup of coffee. You might not think so by looking at it, but it beats out all other forms of coffee making, including driving to Starbucks.
@@ -24,5 +24,3 @@ I don’t pretend to know all about coffee, but I have been drinking it (always 
 The whole process is similar to a French press, except the AeroPress pushes the water through the coffee and filter, instead of pushing the grounds through water. One great advantage over the French press is that the filter of the AeroPress leaves NO sludge in your cup, like you get with a French press.
 
 The AeroPress is an inexpensive, sturdy piece of kitchen hardware that you shouldn’t be without, if you enjoy coffee. You should get one for the price alone. At least if you don’t like it, which I don’t see happening, you didn’t waste much money. Thanks to Aerobie, Inc. for giving me the opportunity to review this awesome product. 
-image: aero_press_03.thumbnail.jpg
-Author: muchocheko
