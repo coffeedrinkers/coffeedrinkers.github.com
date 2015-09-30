@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opinions 
+title: "Opinions, Rants & Raves" 
 excerpt: "An archive of Opinions sorted by date."
 search_omit: true
 ---

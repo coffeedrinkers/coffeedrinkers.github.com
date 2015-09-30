@@ -6,7 +6,7 @@ modified:
 categories: reviews
 tags: [Review]
 image:
-  feature: so-simple-sample-image-1.jpg
+  feature: so-simple-sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true

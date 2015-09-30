@@ -6,7 +6,7 @@ modified:
 categories: opinions
 tags: [Opinion]
 image:
-  feature: so-simple-sample-image-1.jpg
+  feature: so-simple-sample-image-7.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
