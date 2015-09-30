@@ -6,7 +6,7 @@ category: articles
 tags: [sample post, helloworld, highlighting]
 comments: false
 share: true
-author: stephen_lange
+author: cornelius_fiddlebone
 ---
 
 Hello world! This is the first post on my new Jekyll-based blog.
