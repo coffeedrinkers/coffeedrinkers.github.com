@@ -20,8 +20,10 @@ Ralph Preclick, the Chief Product Officer of SkyEurope had this to say:
 
 > I'm proud that SkyEurope is the only airline that offers real Italian espresso Illy on board. We’re continuously striving to enhance our product offering to make flying a truly enjoyable experience for our customers.
 
-The full press release can be seen here. 
-http://www1.skyeurope.com/en/Default.aspx?CatID=10&NewsID=735
+The full press release can be seen [here](http://www1.skyeurope.com/en/Default.aspx?CatID=10&NewsID=735).
+ 
+<div markdown="0"><a href="http://www1.skyeurope.com/en/Default.aspx?CatID=10&NewsID=735" class="btn">LINK</a></div>
+
 
 image: 
 
