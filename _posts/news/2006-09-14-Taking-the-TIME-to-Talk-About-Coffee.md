@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking the TIME to Talk About Coffee
+title: "Taking the TIME to Talk About Coffee"
 excerpt: "I was pleasantly surprised to see on p.86 of the Sept 18th issue of TIME a cursory review of the Aerobie Aeropress."
 modified: 
 categories: news
