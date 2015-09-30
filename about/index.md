@@ -1,26 +1,19 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About this Site
+excerpt: "Brotherhood of the Bean Reborn"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+A long time ago (by internet standards) there was a website called Brotherhood of the Bean.  It was a website fuelled by coffee addicts.  Those addicts; myself (the owner), Dan Marchik (my old Army buddy) and a fellow lover of coffer named Olaf (yes, I knew an Olaf before the Frozen movie); drank coffee like there was no tomorrow and savoured writing about our experiences. 
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+And then, Brotherhood of the Bean was hacked, well WordPress was, and I just didn't have the energy to do much more that quarantine the entire mess.
 
-## So Simple Theme is all about:
+Time passed, and even more coffee was consumed.  The lunar eclipse on 9/28/15 provided the omen I needed, Brotherhood of the Bean would be reborn as CoffeeDrinkers.org.  Old posts will slowly be returned to their former glory, and new content will once again flow like fine espresso.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+If you are an old reader of Brotherhood of the Bean, welcome back.  If you are a new reader, welcome friend.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+-Stephen Lange
