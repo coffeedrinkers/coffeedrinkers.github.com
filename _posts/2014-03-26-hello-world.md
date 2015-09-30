@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world Test
+title: Hello
 description: "TEST"
 category: articles
 tags: [sample post, helloworld, highlighting]
