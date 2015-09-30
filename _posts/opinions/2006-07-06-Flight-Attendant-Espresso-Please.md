@@ -12,7 +12,7 @@ image:
 comments: true
 share: true
 ---
-If you find yourself in Europe travelling and have grown tired of airline coffee - consider flying SkyEurope. SkyEurope recently announced that they will be serving espresso and cappuccino aboard their new Boeing 737-700 NG planes.
+![Sky Europe](/images/sky_europe.jpg){: .pull-right}If you find yourself in Europe travelling and have grown tired of airline coffee - consider flying SkyEurope. SkyEurope recently announced that they will be serving espresso and cappuccino aboard their new Boeing 737-700 NG planes.
 
 These new aircraft will be equipped with a top of the line espresso machine from Iacobucci and will be serving illy brand coffee made from nine varieties of Arabica beans.
 
@@ -23,5 +23,5 @@ Ralph Preclick, the Chief Product Officer of SkyEurope had this to say:
 The full press release can be seen here. 
 http://www1.skyeurope.com/en/Default.aspx?CatID=10&NewsID=735
 
-image: sky_europe.jpg
+image: 
 
