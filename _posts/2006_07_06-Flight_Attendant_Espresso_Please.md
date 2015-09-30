@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Flight Attendant - Espresso Please?
-categories:
-- Coffee Talk
+title: "Flight Attendant - Espresso Please?"
+author: stephen_lange
+modified: 
+excerpt: 
+tags: [coffee-talk]
 ---
+
 image: sky_europe.jpg
 
 If you find yourself in Europe travelling and have grown tired of airline coffee - consider flying SkyEurope. SkyEurope recently announced that they will be serving espresso and cappuccino aboard their new Boeing 737-700 NG planes.
