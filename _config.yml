@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            CoffeeDrinkers.org
+title:            Coffee Drinkers
 locale:           en_US
 url:
 
@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Stephen Lange
-  avatar: bio-photo.jpg
+  avatar: bio-photo-lange.jpg
   bio: "Coffee Addict, Dad & Dude"
   email:
   disqus-shortname:
