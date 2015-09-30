@@ -1,16 +1,18 @@
 # Site navigation links
 
+- title: News
+  url: /news/
+
+- title: Reviews
+  url: /reviews/
+  
+ - title: Opinions
+   url: /opinions/
+   
 - title: About
   url: /about/
-
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
 
 - title: Search
   url: /search/
 
-- title: Reviews
-  url: /reviews/
+

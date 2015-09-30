@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reviews
-excerpt: "An archive of articles sorted by date."
+title: Coffee Related Reviews
+excerpt: "An archive of Coffee Related Reviews Sorted by Date"
 search_omit: true
 ---
 
