@@ -4,8 +4,9 @@ title: Hello world
 description: "Hi there! This is the first post on my new Jekyll-based blog! I hope you have fun reading it."
 category: articles
 tags: [sample post, helloworld, highlighting]
-comments: true
+comments: false
 share: true
+author: stephen_lange
 ---
 
 Hello world! This is the first post on my new Jekyll-based blog.
