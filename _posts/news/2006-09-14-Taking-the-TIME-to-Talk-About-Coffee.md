@@ -6,7 +6,7 @@ modified:
 categories: news
 tags: [News]
 image:
-  feature: so-simple-sample-image-6.jpg
+  feature: so-simple-sample-image-6a.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
