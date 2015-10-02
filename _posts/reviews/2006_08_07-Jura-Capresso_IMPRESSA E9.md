@@ -2,7 +2,7 @@
     layout: post
      title: "Jura-Capresso IMPRESSA E9"
    excerpt: "Continuing on with the Jura-Capresso tradition of fine coffee products — the IMPRESSA E9 Super Automatic Coffee Center offers an extensive array of features and functionality sure to satisfy both the die hard espresso aficionado as well as the casual espresso drinker."
-  modified: 
+  modified: 2006-08-07
 categories: reviews
       tags: [Review]
      image:
