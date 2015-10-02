@@ -35,7 +35,7 @@ One of the things that surprised me was just how much feedback the E9 gives duri
 
 Make too many espressos without emptying the internal ground collector and it will tell you to "EMPTY GROUNDS", consequently the E9 will tell you that the "DRAWER MISSING" when you pull out the drawer to empty the grounds.
 
-    What is the point of having an "Automatic Coffee Center" if you have to constantly stop to check if you need to do maintenance or refills?
+> What is the point of having an "Automatic Coffee Center" if you have to constantly stop to check if you need to do maintenance or refills?
 
 The E9 allows you to focus on making espresso and steaming milk rather than checking to see if its time to refill the machine or perform maintenance.
 
@@ -87,4 +87,3 @@ The IMPRESSA E9 is an amazing machine and investment if you want to appreciate g
 That being said I would buy this unit in a heartbeat if we were not saving every penny for our upcoming adoption from China, somethings I must admit are more important than even the finest espresso machine. Such is life.
 
 As with my prior Capresso review I would like to thank the fine people at Field & Associates for giving me the opportunity to review this fine product. 
-http://www.fieldpr.com/
