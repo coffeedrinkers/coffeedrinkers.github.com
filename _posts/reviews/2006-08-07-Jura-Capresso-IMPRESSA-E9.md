@@ -69,10 +69,10 @@ Believe it or not, the E9 actually keeps usage statistics! Not only can it tell 
 
 During our Review Process we Enjoyed…
 
--91 Total Cups of Espresso
--89 of which were 1-Cup Draws (4 Oz.)
--02 of which were 2-Cup Draws (8 Oz.)
--00 of which were Pre-Ground
+* 91 Total Cups of Espresso
+* 89 of which were 1-Cup Draws (4 Oz.)
+* 02 of which were 2-Cup Draws (8 Oz.)
+* 00 of which were Pre-Ground
 
 A multitude of languages can be set for use on the E9 — English, German, French, Italian, Spanish, Portuguese and Dutch (NL) can all be chose.
 
