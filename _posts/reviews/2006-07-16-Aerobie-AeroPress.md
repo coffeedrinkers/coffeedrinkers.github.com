@@ -6,7 +6,7 @@ modified:
 categories: reviews
 tags: [Review]
 image:
-  feature: reviews-default.jpg
+  feature: review-default.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
