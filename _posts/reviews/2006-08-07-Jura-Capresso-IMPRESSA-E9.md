@@ -67,7 +67,7 @@ The E9 allows customization of the Auto Shut-Off time, this can be set from zero
 
 Believe it or not, the E9 actually keeps usage statistics! Not only can it tell you how many total cups of espresso you have brewed, pressing the 1-Cup, 2-Cup and Ground coffee button will display statistics for each of those buttons used.
 
-During our Review Process we Enjoyed…
+*During our Review Process we Enjoyed…*
 
 * 91 Total Cups of Espresso
 * 89 of which were 1-Cup Draws (4 Oz.)
@@ -78,7 +78,7 @@ A multitude of languages can be set for use on the E9 — English, German, Frenc
 
 After around 200 coffees the manual indicates that the the unit will tell you it is time to clean the machine, in addition it will tell you when it is time to perform a decalcification of the machine should it be needed. Both procedures are well documented, and can be reviewed in further detail online at Capresso should you be interested.
 
-So what does it cost?
+*So what does it cost?*
 
 Priced from $999.00 to $1,199.00 the IMPRESSA E9 has a higher price point than many espresso makers, but keep in mind that trying to compare this machine to anything you will find in a home or department store is like trying to compare coach to first class.
 
