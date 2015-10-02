@@ -1,17 +1,18 @@
 ---
-    layout: post
-     title: "Jura-Capresso IMPRESSA E9"
-   excerpt: "Continuing on with the Jura-Capresso tradition of fine coffee products — the IMPRESSA E9 Super Automatic Coffee Center offers an extensive array of features and functionality sure to satisfy both the die hard espresso aficionado as well as the casual espresso drinker."
-  modified: 2006-08-07
+layout: post
+title: "Jura-Capresso IMPRESSA E9"
+excerpt: "Continuing on with the Jura-Capresso tradition of fine coffee products — the IMPRESSA E9 Super Automatic Coffee Center offers an extensive array of features and functionality sure to satisfy both the die hard espresso aficionado as well as the casual espresso drinker."
+modified: 2006-08-07
 categories: reviews
-      tags: [Review]
-     image:
-     feature: review-default.jpg
-      credit: WeGraphics
+tags: [Review]
+image:
+  feature: review-default.jpg
+  credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-  comments: true
-     share: true
+comments: true
+share: true
 ---
+
 ![IMPRESSA E9](/images/impressa_e9.jpg){: .pull-right}Continuing on with the Jura-Capresso tradition of fine coffee products — the IMPRESSA E9 Super Automatic Coffee Center offers an extensive array of features and functionality sure to satisfy both the die hard espresso aficionado as well as the casual espresso drinker.
 
 Normally these two types of people would be hard pressed to find a single machine capable of satisfying both of their needs. Let's be honest, some of the best espresso makers are also some of the most frightening looking contraptions in the coffee world.
