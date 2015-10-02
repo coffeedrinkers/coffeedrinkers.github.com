@@ -1,7 +1,7 @@
 ---
     layout: post
      title: "Ice Brewed Coffee Sangria"
-   excerpt: ""
+   excerpt: "Coffee might be the furthest thing from your mind during the hot sweltering heat of summer."
   modified: 
 categories: reviews
       tags: [Review]
