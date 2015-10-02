@@ -1,17 +1,17 @@
 ---
-    layout: post
-     title: "Ice Brewed Coffee Sangria"
-   excerpt: "Coffee might be the furthest thing from your mind during the hot sweltering heat of summer."
-  modified: 
+layout: post
+title: "Ice Brewed Coffee Sangria"
+excerpt: "Coffee might be the furthest thing from your mind during the hot sweltering heat of summer."
+modified: 
 categories: reviews
-      tags: [Review]
-     image:
-   feature: review-default.jpg
-    credit: WeGraphics
-creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-  comments: true
-     share: true
-    author: 
+tags: [Review]
+image:
+  feature: review-default.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: true
+share: true
+author: 
 ---
 Coffee might be the furthest thing from your mind during the hot sweltering heat of summer.  Try this interesting twist brought to you courtesy of Starbucks!
 
