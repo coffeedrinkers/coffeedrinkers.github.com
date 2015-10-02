@@ -6,6 +6,7 @@ modified:
 categories: opinions
 tags: [Opinion]
 image:
+  thumb: opinion-thumb.png
   feature: opinions-default.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
