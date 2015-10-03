@@ -29,11 +29,11 @@ One of the things I really like about Illy is the way they package their coffee.
 
 Illy Espresso Coffee BeansI was curious to see what kind of espresso the medium roast beans would produce. Firing up the espresso maker I was impressed by the crema that it produced. Its hard to explain, but the espresso looked like a miniature Guinness being poured as the golden hue of the crema rose to the top. I did not find the espresso to be bitter or harsh, its very smooth without sacrificing complex tastes.
 
-*Illy Fine Grind Espresso Coffee (Regular & Decaffeinated)*
+**Illy Fine Grind Espresso Coffee (Regular & Decaffeinated)**
 
 The fine grind espresso coffee is suitable for use in espresso. French Press and automatic drip coffee makers. Those using it in an automatic drip coffee maker may find that the coffee is thicker than you are normally used to due to the fineness of the grind. If you find this to be a problem, consider using a finer mesh gold coffee filter.
 
-*Burnt Taste & Bite Missing*
+**Burnt Taste & Bite Missing**
 
 In testing the Illy coffee I included a number of different people in the testing process. After all, coffee is better enjoyed with friends! People immediately noticed the the Illy coffee lacks the burnt overcooked taste all too common in other coffees.
 
