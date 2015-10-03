@@ -17,7 +17,7 @@ author:
 
 As I waited for my Mukka Express to be delivered I stumbled across a fantastic article by Myron Joshua called "The Story of the Bialetti Moka Express" on www.ineedcoffee.com. In this article Myron speaks in depth about the history of Bialetti and his Moka vision. Bialetti promised:
 
-    "Espresso in the Home Just Like in the Bar"
+>"Espresso in the Home Just Like in the Bar"
 
 The Bialetti Mukka Express is an updated version of their traditional Moka pot. The Mukka Express has a number of other finish options available if the cow print does not suit your tastes.
 
@@ -35,13 +35,13 @@ I carefully filled the bottom with the exact amount of water indicated. Added my
 
 About five minutes later I heard the pop of the value being tripped, and excitedly watched to see what would happen. Coffee began to rush into the upper pot, it tumultuously rolled and thrashed as the steam forced its way up into the pot, up, up and over it boiled..
 
-    All over my freshly cleaned stove.
+>All over my freshly cleaned stove.
 
 My wife eyed the Mukka Express with a slightly less enthused look, I could tell she was beginning to question its "cute" factor. Not a problem I assured here, the heat may have been too high, etc.
 
 Attempt number two was made…
 
-    Honey I am going to need some more towels..
+>Honey I am going to need some more towels..
 
 By attempt three I decided to throw caution to the wind, and dare I say it, add milk to the top. When the valve popped I opened the lid and yes, the milk was countering the explosive nature of the coffee, but it too continued to rise up and ultimately… overflow.
 
