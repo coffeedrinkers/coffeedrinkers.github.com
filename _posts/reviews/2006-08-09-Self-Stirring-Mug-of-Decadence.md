@@ -22,3 +22,5 @@ A small propeller at the bottom of this mug running at a cool 3,000 rpms will mi
 ![No Spoon Required](/images/spoon.jpg){: .pull-left}The mug even includes a lid to prevent spilling and retain heat. And in a pinch the lid can be used as a coaster.
 
 At $29.95, make no mistake, this is as decadent as it gets. If anyone has used one of these mugs I would love to hear about it, I just can't bring myself to buy one for review. 
+
+If anyone out there has one of these we would love to hear your thoughts in the comment area below.
