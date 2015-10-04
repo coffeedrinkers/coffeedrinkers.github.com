@@ -49,8 +49,8 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
-    verify:
+    analytics: UA-68389364-1
+    verify: UA-68389364-1
     ad-client:
     ad-slot:
   bing-verify:
