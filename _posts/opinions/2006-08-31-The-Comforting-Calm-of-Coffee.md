@@ -19,7 +19,7 @@ Coffee is about more than just taste and caffeine content. Its about comfort. Ye
 
 It has the power to mend the broken spirit, heal fallen friendships, and give hope to those that have lost it. Coffee you see, is a catalyst for change in the human spirit.
 
-Don’t believe me?
+**Don’t believe me?**
 
 Ask a homeless person how they feel on a bitter February morning when you hand them a piping hot cup of coffee. Suddenly the world seems a little brighter, a little warmer.
 
