@@ -4,7 +4,7 @@ title: "Starbucks: Eco-Unfriendly"
 excerpt: "I have a sordid history with Starbucks and my mug. I can speak singularly about my mug even though years have passed because I’ve been using the same mug now for…jeez…probably 5 years or so."
 modified: 
 categories: opinions
-tags: [Opinion]
+tags: [Opinion, Olaf]
 image:
   feature: opinions-default.jpg
   credit: WeGraphics
@@ -13,9 +13,7 @@ comments: true
 share: true
 author: olaf
 ---
-![Drive Through](/images/starbucks-drive-through.png){: .pull-right}**NOTE: ** *Cross-posted from gradin.com*
-
-I have a sordid history with Starbucks and my mug. I can speak singularly about my mug even though years have passed because I’ve been using the same mug now for…jeez…probably 5 years or so. Before that, I had another one. And before that, I think it was the mug I used in High School. Needless to say, I’m a regular mug user and expect some respect for it.
+![Drive Through](/images/starbucks-drive-through.png){: .pull-right}I have a sordid history with Starbucks and my mug. I can speak singularly about my mug even though years have passed because I’ve been using the same mug now for…jeez…probably 5 years or so. Before that, I had another one. And before that, I think it was the mug I used in High School. Needless to say, I’m a regular mug user and expect some respect for it.
 
 For as many years as Starbucks has had a drive-through in Atlanta, I have had difficulty getting across the understanding that I have a mug and I’d like coffee poured into it. No cream, no sugar, no flavors - just coffee. Isn’t that what Starbucks is famous for? Countless times, there is simply no understanding my simple request over the drive-through speaker.
 
@@ -36,3 +34,5 @@ The thing is this: Starbucks should support the environment a little better and 
 Don’t fill a paper cup and hand it to me to pour into my mug. Don’t make me repeat myself like I’m an unintelligible buffoon at your drive up. For god’s sake - don’t fill my coffee mug with virgin-white milk!
 
 Surely there are other customers out there that have some secret handshake with the speaker attendant to get their request handled accurately and efficiently. What is your secret?!?
+
+**NOTE:** Cross-posted from gradin.com
