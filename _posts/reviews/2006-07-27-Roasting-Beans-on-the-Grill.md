@@ -4,7 +4,7 @@ title: "Roasting Beans on the Grill"
 excerpt: "Yesterday I received my first shipment of unroasted coffee beans from Sweet Maria’s and was very excited to get roasting. Not having a roaster, I decided that I would try the pan roasting method, so I went and got an old skillet I use for camping, fired up the grill, and started warming up the skillet."
 modified: 
 categories: reviews
-tags: [Review]
+tags: [Review, Dan]
 image:
   feature: review-default.jpg
   credit: WeGraphics

@@ -4,7 +4,7 @@ title: "BonJour Latte Frother"
 excerpt: "If any of you have read my past reviews, you probably know that I am a black coffee drinker, and that’s about it. No cappuccino, no caramel lattes, or other Starbucks concoctions."
 modified: 
 categories: reviews
-tags: [Review]
+tags: [Review, Dan]
 image:
   feature: review-default.jpg
   credit: WeGraphics

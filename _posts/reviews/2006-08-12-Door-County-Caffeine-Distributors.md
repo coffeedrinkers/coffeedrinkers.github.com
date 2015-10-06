@@ -4,7 +4,7 @@ title: "Door County Caffeine Distributors"
 excerpt: "While the family and I rushed out of the house for a three day weekend in Door County Wisconsin, we forgot something important.  Not our kids, or toothbrushes, but our coffee maker."
 modified: 
 categories: reviews
-tags: [Review]
+tags: [Review, Dan]
 image:
   feature: review-default.jpg
   credit: WeGraphics

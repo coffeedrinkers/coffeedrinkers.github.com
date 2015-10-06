@@ -4,7 +4,7 @@ title: "Puro Scuro Blend"
 excerpt: "Three days ago I received my latest shipment of green coffee from sweetmarias.com. Six pounds of various blends and straight lots."
 modified: 
 categories: reviews
-tags: [Review]
+tags: [Review, Dan]
 image:
   feature: review-default.jpg
   credit: WeGraphics

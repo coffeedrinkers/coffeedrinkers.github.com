@@ -4,7 +4,7 @@ title: "Braun Tassimo"
 excerpt: "I was skeptical about reviewing the Braun Tassimo Hot Beverage Station. I have used pod machines before and the results were always bad. I wanted to keep an open mind, even though the coffee I was about to drink, started out as concentrate in a plastic tub."
 modified: 
 categories: reviews
-tags: [Review]
+tags: [Review, Dan]
 image:
   feature: review-default.jpg
   credit: WeGraphics
