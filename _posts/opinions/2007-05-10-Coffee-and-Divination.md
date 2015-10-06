@@ -41,19 +41,19 @@ Wikipedia has this to say about Tasseography:
 
 There is a great ["I Need Coffee" article](http://ineedcoffee.com/coffee-tasseography-fortune-telling-with-coffee/) about this subject that I encourage anyone interested in Tasseography to read when they have a chance. What I especially liked about Margaret’s article was her explanation of some of the common symbols seen in the coffee grounds:
 
-> **Apple:** Fertility and creativity.
-> **Arch:** Money in business matters.
-> **Bread:** Nurture your desires, hopes and dreams.
-> **Bridge:** A major decision needs to be made - which way should you go?
-> **Camera:** Someone is attracted to you.
-> **Coins:** Money is on the way.
-> **Diamonds:** A marriage proposal is expected? If the person is married, this may be a symbol of money and material wealth.
-> **Flowers:** Flowers indicate happiness.
-> **Genie Lamp:** Your wish will be granted.
-> **Harp:** Traditional romance.
-> **Heart:** A love affair, if the heart is broken or misshapen then the person is broken-hearted.
-> **Knots:** Concern over something, take care that it does not negatively affect your health.
-> **Road:** Creative opportunities are bringing you to another level.
-> **Ship:** A business opportunity is presenting itself.
+> **Apple:** Fertility and creativity.  
+> **Arch:** Money in business matters.  
+> **Bread:** Nurture your desires, hopes and dreams.  
+> **Bridge:** A major decision needs to be made - which way should you go?  
+> **Camera:** Someone is attracted to you.  
+> **Coins:** Money is on the way.  
+> **Diamonds:** A marriage proposal is expected? If the person is married, this may be a symbol of money and material wealth.  
+> **Flowers:** Flowers indicate happiness.  
+> **Genie Lamp:** Your wish will be granted.  
+> **Harp:** Traditional romance.  
+> **Heart:** A love affair, if the heart is broken or misshapen then the person is broken-hearted.  
+> **Knots:** Concern over something, take care that it does not negatively affect your health.  
+> **Road:** Creative opportunities are bringing you to another level.  
+> **Ship:** A business opportunity is presenting itself.  
 
 So the next time you find yourself out with friends, order some Turkish coffee and offer to do a reading, who knows what you will see in the grounds!
