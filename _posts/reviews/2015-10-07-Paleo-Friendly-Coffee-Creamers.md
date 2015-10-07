@@ -15,8 +15,6 @@ author:
 ---
 ![Heavy Whipping Cream](/images/whip.png){: .pull-right}A few months ago I started a paleo diet at the suggestion of my doctor.  My blood sugar had gone from gradually worsening to - "Oh Shit!"  My doctor didn't pull any punches.  Paleo, or the "Caveman" diet follows some pretty simple rules.  The image below summarizes Paleo nicely.
 
-![Heavy Whipping Cream](/images/paleo.jpg){: .pull-center}
-
 One thing impacted by going paleo has been my coffee.  No, I haven't stopped drinking coffee.  I have however had to make some adjustment.  I've gone back to the basics.  Black coffee.  No sugar.  No creamer.  
 
 Frappachinos? Holiday Themed Lattes? Mocha Lattes?  All gone and for good reason.  They are after all nothing but sugar masquerading as coffee.  But as much as I love black coffee, sometimes I need to cut it with something else.  Here are some of the more paleo "friendly" coffee cutters that I tried.
