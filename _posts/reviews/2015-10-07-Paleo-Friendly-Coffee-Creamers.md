@@ -17,7 +17,9 @@ author:
 
 One thing impacted by going paleo has been my coffee.  No, I haven't stopped drinking coffee.  I have however had to make some adjustment.  I've gone back to the basics.  Black coffee.  No sugar.  No creamer.  
 
-Frappachinos? Holiday Themed Lattes? Mocha Lattes?  All gone and for good reason.  They are after all nothing but sugar masquerading as coffee.  But as much as I love black coffee, sometimes I need to cut it with something else.  Here are some of the more paleo "friendly" coffee cutters that I tried.
+**Frappachinos? Holiday Themed Lattes? Mocha Lattes?**
+
+All gone and for good reason.  They are after all nothing but sugar masquerading as coffee.  But as much as I love black coffee, sometimes I need to cut it with something else.  Here are some of the more paleo "friendly" coffee cutters that I tried.
 
 **Unsweetened Almond Milk**
 
@@ -41,6 +43,13 @@ Let me just say that it was a mind blowing experience. To give you some context,
 
 In paleo circles heavy whipping cream is a good source of fat for the diet, and it's a favorite in coffee for reasons I now am familiar with.  While I don't advocate using it for every cup of coffee as it does have calories that could quickly add up if you drink a lot of coffee, its an excellent way to start or end a day.
 
+For those interested in Paleo, here is a nice overview of what it entails.  I've been on it for three months and just got my first blood test results back.  While results will vary from person to person, by going to a paleo diet check out the results:
 
+* Trigylcerides decreased by 53.32%
+* Fasting Glucose decreated by 24.26%
+* Estimated Average Glucose decreased by 26.49%
+* Total Bilirubin decreased by 26.67%
+
+![Paleo Overview](/images/paleo.jpg){: .pull-center}
 
 
