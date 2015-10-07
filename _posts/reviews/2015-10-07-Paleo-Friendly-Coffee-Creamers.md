@@ -23,7 +23,7 @@ All gone and for good reason.  They are after all nothing but sugar masquerading
 
 **Unsweetened Almond Milk**
 
-At first I tried unsweetened almond milk.  Almond milk as you might imagine is made from ground almongs.  If its unsweetened its lower in calories than other milks, and is cholesterol, saturated fat and lactose free.    It's a decent source of vitamins A & D but isn't a replacement for calcium.
+At first I tried unsweetened almond milk.  Almond milk as you might imagine is made from ground almonds.  If its unsweetened its lower in calories than other milks, and is cholesterol, saturated fat and lactose free.    It's a decent source of vitamins A & D but isn't a replacement for calcium.
 
 Almond milk is also more watery that milk so while it *technically* works, I almost found it less enjoyable than just drinking the coffee black.
 
@@ -31,7 +31,7 @@ Almond milk is also more watery that milk so while it *technically* works, I alm
 
 Next I decided to see if I would like coconut milk (full fat, not coconut water) in my coffee.  I often use coconut milk in smoothies I make in our NutriBullet.  Compared to almond milk, coconut milk is much more viscous.  It definitely feels thicker than milk.  
 
-But, I just didn't like it.  The underlying coconut flavor I found to be a too overpowering for my taste.  It also didn't mix as well as I would have liked without a frother.
+But, I just didn't like it.  The underlying coconut flavor I found to be a too overpowering for my taste.  It also didn't mix as well as I would have liked without a some kind of frothing device.
 
 **Heavy Whipping Cream**
 
@@ -43,10 +43,10 @@ Let me just say that it was a mind blowing experience. To give you some context,
 
 In paleo circles heavy whipping cream is a good source of fat for the diet, and it's a favorite in coffee for reasons I now am familiar with.  While I don't advocate using it for every cup of coffee as it does have calories that could quickly add up if you drink a lot of coffee, its an excellent way to start or end a day.
 
-For those interested in Paleo, here is a nice overview of what it entails.  I've been on it for three months and just got my first blood test results back.  While results will vary from person to person, by going to a paleo diet check out the results:
+For those interested in paleo, here is a nice overview of what it entails.  I've been on it for three months and just got my first blood test results back.  While results will vary from person to person, by going to a paleo diet check out the results:
 
 * Trigylcerides decreased by 53.32%
-* Fasting Glucose decreated by 24.26%
+* Fasting Glucose decreased by 24.26%
 * Estimated Average Glucose decreased by 26.49%
 * Total Bilirubin decreased by 26.67%
 
