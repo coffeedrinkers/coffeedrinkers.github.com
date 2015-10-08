@@ -1,7 +1,83 @@
 **Jekyll Formatting Overview**
 
-To add a TOC:
+# Post Formatting
+Posts are text with markup.  All posts to coffeedrinkers.org must have the following header information.  Three types of posts are shown:
 
+~~~ html
+---
+layout: post
+title: ""
+excerpt: ""
+modified: 
+categories: news
+tags: [News]
+image:
+  feature: news-default.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: true
+share: true
+author: 
+---
+![Aerobie AeroPress](/images/aeropress-hero-260.jpg){: .pull-right}
+
+---
+layout: post
+title: ""
+excerpt: ""
+modified: 
+categories: opinions
+tags: [Opinion]
+image:
+  feature: opinions-default.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: true
+share: true
+author: 
+---
+![Aerobie AeroPress](/images/aeropress-hero-260.jpg){: .pull-right}
+
+---
+layout: post
+title: ""
+excerpt: ""
+modified: 
+categories: reviews
+tags: [Review]
+image:
+  feature: review-default.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: true
+share: true
+author: 
+---
+![Aerobie AeroPress](/images/aeropress-hero-260.jpg){: .pull-right}
+~~~
+
+# Sample Post using the Template
+~~~ html
+---
+layout: post
+title: "This is a Review"
+excerpt: "This Review is about coffee.  This excerpt will appear on under the title."
+modified: (Leave Blank, this is for overrides)
+categories: reviews  (One category per post, valid categories: reviews, opinions, news)
+tags: [Review]  (Leave default tag, authors other than Steve should add a command and their author name (muchocheko, olaf or mary - lower case)
+image:
+  feature: review-default.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: true
+share: true
+author: (blank for Steve, muchochecko, olaf or mary for guest writers)
+---
+![Name of Image you want to appear on the right](/images/image_name.jpg){: .pull-right}Hi this is my first post!
+~~~
+
+
+To add a TOC:
 ~~~ html
 <section id="table-of-contents" class="toc">
   <header>
