@@ -4,7 +4,7 @@ title: "A Rambling Mom’s NEED for Coffee"
 excerpt: "I did not drink coffee in high school. I started to drink pseudo-coffee in college. General Foods International Coffee was my induction to the coffee world while diet soda (of any kind) remained my all-nighter choice for caffeine."
 modified: 
 categories: opinions
-tags: [Opinion]
+tags: [Opinion, Mary]
 image:
   feature: opinions-default.jpg
   credit: WeGraphics
