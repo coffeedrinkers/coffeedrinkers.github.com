@@ -1,4 +1,17 @@
-**Jekyll Formatting Overview**
+*Quick & Dirty Crash Course on CoffeeDrinkers.org Post Formatting*
+Back when Brotherhood of the Bean was up it used WordPress which was prone to bugs, and database driven.  Posts would be generated on the fly as needed.  As a result, sites using this model can be slow when heavily accessed, and because WordPress uses PHP, frequently hacked (usually via poor programming in a third party plugin).
+
+So I decided to go a different route with coffeedrinkers.org.  I am a big fan of a text processing system called LaTex that can take text files with code markup and transform it into beautiful professional typeset documents.
+
+Jekyll is a blog publishing platform that works off the same principle.  Posts are individual text files that contain markup, usually just a header.  Jekyll processes these files and spits out static HTML files.  Since there is nothing to process when a reader accesses these pages, they are very fast.  And since there are no moving parts, as long as access is controlled to github.com where the files are stored, the threat of hacking is very low.
+
+As an author you have a few options. 
+
+Option 1:  Write your post up in your favorite text editor.  Send it to me along with any image files you want included, and I'll do the heavy lifting.
+
+Option 2:  Have a crack at formatting your post using the guidelines below.  Then send to me with any images.
+
+For right now, I am going to restrict uploading of new posts to github.  Github is a code repository, as such when updates are made (commits) the previous version information is kept if a rollback is needed.  
 
 # Post Formatting
 Posts are text with markup.  All posts to coffeedrinkers.org must have the following header information.  Three types of posts are shown:
