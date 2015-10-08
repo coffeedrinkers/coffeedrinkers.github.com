@@ -10,7 +10,7 @@
 </div>
 </section><!-- /#table-of-contents -->
 
-{% highlight html %}
+~~~ html
 <section id="table-of-contents" class="toc">
   <header>
     <h3>Overview</h3>
@@ -20,7 +20,7 @@
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
-{% endhighlight %}
+~~~
 
 ## HTML Elements
 
