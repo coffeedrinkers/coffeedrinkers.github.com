@@ -121,19 +121,6 @@ All posts get named in the following manner:
 **YYYY-MM-DD-Name-Of-The-Post.md**
 
 
-To add a TOC:
-~~~ html
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
-~~~
-
 ## HTML Elements
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
