@@ -1,4 +1,5 @@
-*Quick & Dirty Crash Course on CoffeeDrinkers.org Post Formatting*
+# Quick & Dirty Crash Course on CoffeeDrinkers.org Post Formatting
+
 Back when Brotherhood of the Bean was up it used WordPress which was prone to bugs, and database driven.  Posts would be generated on the fly as needed.  As a result, sites using this model can be slow when heavily accessed, and because WordPress uses PHP, frequently hacked (usually via poor programming in a third party plugin).
 
 So I decided to go a different route with coffeedrinkers.org.  I am a big fan of a text processing system called LaTex that can take text files with code markup and transform it into beautiful professional typeset documents.
