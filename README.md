@@ -56,7 +56,7 @@ author:
 ![Aerobie AeroPress](/images/aeropress-hero-260.jpg){: .pull-right}
 ~~~
 
-# Sample Post using the Template
+# Sample Post using the Template (Muchochecko):
 ~~~ html
 ---
 layout: post
@@ -64,17 +64,61 @@ title: "This is a Review"
 excerpt: "This Review is about coffee.  This excerpt will appear on under the title."
 modified: (Leave Blank, this is for overrides)
 categories: reviews  (One category per post, valid categories: reviews, opinions, news)
-tags: [Review]  (Leave default tag, authors other than Steve should add a command and their author name (muchocheko, olaf or mary - lower case)
+tags: [Review, Dan] 
 image:
   feature: review-default.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
-author: (blank for Steve, muchochecko, olaf or mary for guest writers)
+author: muchochecko
 ---
 ![Name of Image you want to appear on the right](/images/image_name.jpg){: .pull-right}Hi this is my first post!
 ~~~
+
+# Sample Post using the Template (Olaf):
+~~~ html
+---
+layout: post
+title: "This is a Review"
+excerpt: "This Review is about coffee.  This excerpt will appear on under the title."
+modified: (Leave Blank, this is for overrides)
+categories: reviews  (One category per post, valid categories: reviews, opinions, news)
+tags: [Review, Olaf] 
+image:
+  feature: review-default.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: true
+share: true
+author: olaf
+---
+![Name of Image you want to appear on the right](/images/image_name.jpg){: .pull-right}Hi this is my first post!
+~~~
+
+# Sample Post using the Template (Mary):
+~~~ html
+---
+layout: post
+title: "This is a Review"
+excerpt: "This Review is about coffee.  This excerpt will appear on under the title."
+modified: (Leave Blank, this is for overrides)
+categories: reviews  (One category per post, valid categories: reviews, opinions, news)
+tags: [Review, Mary] 
+image:
+  feature: review-default.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: true
+share: true
+author: mary
+---
+![Name of Image you want to appear on the right](/images/image_name.jpg){: .pull-right}Hi this is my first post!
+~~~
+
+# Post Text File Naming
+All posts get named in the following manner:
+**YYYY-MM-DD-Name-Of-The-Post.md**
 
 
 To add a TOC:
