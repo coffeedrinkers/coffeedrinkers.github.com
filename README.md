@@ -1,14 +1,6 @@
 **Jekyll Formatting Overview**
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
+To add a TOC:
 
 ~~~ html
 <section id="table-of-contents" class="toc">
@@ -38,7 +30,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ###### Heading 6
 
-{% highlight html %}
+~~~ html
 # Heading 1
 
 ## Heading 2
@@ -50,17 +42,17 @@ Below is just about everything you'll need to style in the theme. Check the sour
 ##### Heading 5
 
 ###### Heading 6
-{% endhighlight %}
+~~~
 
 ### Body text
 
 *This is emphasized*.
 **This is bold.**
 
-{% highlight html %}
+~~~ html
 *This is emphasized*.
 **This is bold.**
-{% endhighlight %}
+~~~
 
 
 Right Image
@@ -75,7 +67,7 @@ Center Image
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .image-pull-center}
 
-{% highlight html %}
+~~~ html
 Right Image
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .image-pull-right}
@@ -87,16 +79,15 @@ Left Image
 Center Image
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .image-pull-center}
-{% endhighlight %}
-
+~~~
 
 ### Blockquotes
 
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 
-{% highlight html %}
+~~~ html
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-{% endhighlight %}
+~~~
 
 ## List Types
 
@@ -127,7 +118,7 @@ Center Image
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
 
-{% highlight html %}
+~~~ html
 ### Ordered Lists
 
 1. Item one
@@ -154,7 +145,7 @@ Center Image
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
-{% endhighlight %}
+~~~
 
 
 ## Code Snippets
@@ -181,13 +172,13 @@ Make any link standout more when applying the `.btn` class.
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
 
-{% highlight html %}
+~~~ html
 <div markdown="0"><a href="#" class="btn">Primary Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-{% endhighlight %}
+~~~
 
 
 ## Notices
@@ -195,10 +186,10 @@ Make any link standout more when applying the `.btn` class.
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
 {: .notice}
 
-{% highlight css %}
+~~~ html
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
 {: .notice}
-{% endhighlight %}
+~~~
 
 
 ## Dealing with Images
@@ -214,26 +205,24 @@ Here are some examples of what a post with images might look like. If you want t
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
-{% highlight html %}
+~~~ html
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
-{% endhighlight %}
-
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+~~~
 
 #### Two Up
 
 Apply the `half` class like so to display two images side by side that share the same caption.
 
-{% highlight html %}
+~~~ html
 <figure class="half">
     <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
     <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
-{% endhighlight %}
+~~~
 
 And you'll get something that looks like this:
 
@@ -247,14 +236,14 @@ And you'll get something that looks like this:
 
 Apply the `third` class like so to display three images side by side that share the same caption.
 
-{% highlight html %}
+~~~ html
 <figure class="third">
 	<img src="/images/image-filename-1.jpg">
 	<img src="/images/image-filename-2.jpg">
 	<img src="/images/image-filename-3.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
-{% endhighlight %}
+~~~
 
 And you'll get something that looks like this:
 
