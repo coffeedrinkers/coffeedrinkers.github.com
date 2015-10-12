@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “The Brew Crew”
+title: "The Brew Crew"
 excerpt: "The lineup of some of the coffee makers I use including a vacuum coffee maker, Aerobie press, the Chemex, a perculator, and REI Double Shot Press mug."
 modified: 
 categories: opinions
