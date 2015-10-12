@@ -11,7 +11,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
-author: muchochecko
+author: muchocheko
 ---
 ![Brew Stuff](/images/brew-dan.jpg){: .pull-right}As a professional coffee drinker, I’m often asked what’s the best way to make coffee or what method/device makes the best  coffee.   The answer…it depends.
 
