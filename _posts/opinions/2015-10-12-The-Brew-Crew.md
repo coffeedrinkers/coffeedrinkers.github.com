@@ -13,11 +13,7 @@ comments: true
 share: true
 author: muchochecko
 ---
-As a professional coffee drinker, I’m often asked what’s the best way to make coffee or what method/device makes the best  coffee.   The answer…it depends.
-
-![Brew Stuff](/images/brew-dan.jpg){: .pull-center}
-
-
+![Brew Stuff](/images/brew-dan.jpg){: .pull-right}As a professional coffee drinker, I’m often asked what’s the best way to make coffee or what method/device makes the best  coffee.   The answer…it depends.
 
 The answer depends on many different things ranging from what’s available to you (electricity/stovetop) to how much time you have.  For instance, when camping with no power, I’m pretty happy drinking coffee made either from a French press or an old percolator I can throw on the fire.  The lower the tech, the better.
 
