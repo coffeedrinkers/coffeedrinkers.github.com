@@ -17,6 +17,8 @@ As a professional coffee drinker, I’m often asked what’s the best way to mak
 
 ![Brew Stuff](/images/brew-dan.jpg){: .pull-center}
 
+
+
 The answer depends on many different things ranging from what’s available to you (electricity/stovetop) to how much time you have.  For instance, when camping with no power, I’m pretty happy drinking coffee made either from a French press or an old percolator I can throw on the fire.  The lower the tech, the better.
 
 Another quick and easy method for brewing coffee when camping is the REI Double Shot Press Mug.  It’s a coffee mug that has an internal press for straining the grounds.  You put in your coffee, add hot water, let it steep for a couple minutes and press the handle down like a French press.  It even has a little compartment for storing extra coffee, that screws into the bottom of the cup.
