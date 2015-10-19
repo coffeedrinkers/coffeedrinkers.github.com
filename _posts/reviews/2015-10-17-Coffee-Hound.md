@@ -48,13 +48,13 @@ As fully bearded man, I was happy to see another bearded brother in arms behind 
 Well I entered Coffeehound with the idea to order a vanilla latte made with heavy whipping cream.  Being on a paleo diet I try to cut out dairy as much as possible from my diet, since heavy whipping cream is almost entirely fat, it gives me every bit of creaminess (and more) that you get with half and half, without the Lactose, etc.  As I mentioned earlier, Coffeehound was packed.  When it was my turn the conversation went like this:
 
 Me:
-> Can you make me a 20oz vanilla latte made with heavy whipping cream?
+>Can you make me a 20oz vanilla latte made with heavy whipping cream?
 
 Cashier:
-> We can put whipped cream on top of the latte.
+>We can put whipped cream on top of the latte.
 
 Me:
-> Make that a Breve Vanilla Latte.
+>Make that a Breve Vanilla Latte.
 
 Honestly I am sure I could have spent the time explaining what I wanted, and I imagine they had heavy whipping cream in the back and could have accommodated me, but:
 
