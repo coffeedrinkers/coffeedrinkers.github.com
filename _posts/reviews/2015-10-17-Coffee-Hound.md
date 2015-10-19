@@ -39,9 +39,9 @@ Yes, they roast their own beans!  Score.  I would learn this while waiting for m
 
 As fully bearded man, I was happy to see another bearded brother in arms behind the counter working the espresso machine, he was assisted by a lovely lavender haired lass that just added to the quirky creative feel that infused this place.  The real star however was the Nuova Simonelli Aurelia World Barista Championship branded espresso maker.  Anytime I see a place using a high end Italian espresso maker I know I will be in for a great experience.  This time proved no exception.
 
-<figure>
+<center><figure>
     <a href="http://www.nuovasimonelli.it/en/prodotti/macchine-tradizionali/aurelia.html"><img src="/images/Aurelia_Competizione.jpg"></a>
-</figure>
+</figure></center>
 
 **So what did I order?**
 
