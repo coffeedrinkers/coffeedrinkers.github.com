@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coffeehound - Man's (And Woman's) Best Friend"
+title: "Coffeehound - Man & Woman's Best Friend"
 excerpt: "While down for the IESA state cross country finals in Normal, IL I decided to stop in the Coffeehound for some much needed coffee."
 modified: 
 categories: reviews
