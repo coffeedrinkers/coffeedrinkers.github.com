@@ -32,6 +32,7 @@ Walking from the Marriott toward the heart of downtown Normal you pass by the ba
 Today I came in from the front, the place has a great vibe, from the locally sourced art on the walls, the exposed brick and jaunty menu artwork it just feels like the kind of place you would want to sit around and talk/study for hours on end.  And for 8:30 on a Saturday morning the place was absolutely packed with as many college aged people as older folks like myself.  If the Coffeehound could draw out the college crowd that early, hell that's a testament in and of itself!
 
 From their website [coffeehound.net](http://coffeehound.net) I learned that there are two Coffeehound locations:
+
 > Owners Steve and April Fritzen have been in business since 2002, with two locations in Bloomington and Normal, Illinois. Our downtown Bloomington location is also home to our bakery and roastery. Both locations offer a unique feel— whether it be the more historical feel of Bloomington or the modern vibe of Normal— and both are always bustling with business.
 
 Yes, they roast their own beans!  Score.  I would learn this while waiting for my coffee, the barista was chatting with another customer and mentioned that they roasted all of their own coffee which they had for sale up front.  If you recall I tried my hand at roasting coffee in the past and Dan has done much more of it that me, I think we both would agree that having truly fresh roasted beans makes the best coffee. 
@@ -47,13 +48,16 @@ As fully bearded man, I was happy to see another bearded brother in arms behind 
 Well I entered Coffeehound with the idea to order a vanilla latte made with heavy whipping cream.  Being on a paleo diet I try to cut out dairy as much as possible from my diet, since heavy whipping cream is almost entirely fat, it gives me every bit of creaminess (and more) that you get with half and half, without the Lactose, etc.  As I mentioned earlier, Coffeehound was packed.  When it was my turn the conversation went like this:
 
 Me:
->Can you make me a 20oz vanilla latte made with heavy whipping cream?
+
+> Can you make me a 20oz vanilla latte made with heavy whipping cream?
 
 Cashier:
->We can put whipped cream on top of the latte.
+
+> We can put whipped cream on top of the latte.
 
 Me:
->Make that a Breve Vanilla Latte.
+
+> Make that a Breve Vanilla Latte.
 
 Honestly I am sure I could have spent the time explaining what I wanted, and I imagine they had heavy whipping cream in the back and could have accommodated me, but:
 
