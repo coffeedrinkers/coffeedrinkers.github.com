@@ -13,7 +13,9 @@ comments: true
 share: true
 author: 
 ---
-![Breve Vanilla Latte](/images/coffeehound2-small.jpg){: .pull-right}This last weekend was the IESA State cross country finals down in Normal, IL and in an effort to keep things as stress free as possible, we opted to drive down the night before and stay at the Marriott on campus.  As graduates of ISU, my wife and I always enjoy an opportunity to visit the campus, marvel at whats new, and reflect on items from our past that have faded into history.
+![Breve Vanilla Latte](/images/coffeehound2-small.jpg){: .pull-right}This last weekend was the IESA State cross country finals down in Normal, IL and in an effort to keep things as stress free as possible, we opted to drive down the night before and stay at the Marriott on campus.  
+
+As graduates of ISU, my wife and I always enjoy an opportunity to visit the campus, marvel at whats new, and reflect on items from our past that have faded into history.
 
 After a less than stellar breakfast at a local diner, the family headed into CVS to buy some gloves to stave off the morning chill, while I decided to head over to the Coffeehound for something different to keep the cold away.  This wasn't my first time in the Coffeehound, about eighteen months earlier we were down for a visit and I stopped in for some coffee.  Given that it was still around, I thought it high time for a review.
 
@@ -29,7 +31,11 @@ After a less than stellar breakfast at a local diner, the family headed into CVS
 
 Walking from the Marriott toward the heart of downtown Normal you pass by the backside of several main street businesses, Coffeehound happens to be one of those businesses.  What immediately jumps out at you is the Coffeehound logo -- It practically howls at you announcing its presence.  The first time I saw it I knew I had to stop in.  
 
-Today I came in from the front, the place has a great vibe, from the locally sourced art on the walls, the exposed brick and jaunty menu artwork it just feels like the kind of place you would want to sit around and talk/study for hours on end.  And for 8:30 on a Saturday morning the place was absolutely packed with as many college aged people as older folks like myself.  If the Coffeehound could draw out the college crowd that early, hell that's a testament in and of itself!
+Today I came in from the front, the place has a great vibe, from the locally sourced art on the walls, the exposed brick and jaunty menu artwork it just feels like the kind of place you would want to sit around and talk/study for hours on end.  
+
+For 8:30 on a Saturday morning the place was absolutely packed with as many college aged people as older folks like myself.  On a past visit to ISU we noted how much like a barren wasteland the campus was on Saturday morning.  A helpful student working at the Alamo graciously explained to us that Friday is when college kids party.  No shit? I didn't have the heart to tell her that I was doing keg stands here before she was born.  
+
+But I digress, the Coffeehound was packed!  This could mean only one thing, if it could drawn these students out of their beds this early in the morning, there must be something special about Coffeehound.
 
 From their website [coffeehound.net](http://coffeehound.net) I learned that there are two Coffeehound locations:
 
@@ -37,7 +43,9 @@ From their website [coffeehound.net](http://coffeehound.net) I learned that ther
 
 Yes, they roast their own beans!  Score.  I would learn this while waiting for my coffee, the barista was chatting with another customer and mentioned that they roasted all of their own coffee which they had for sale up front.  If you recall I tried my hand at roasting coffee in the past and Dan has done much more of it that me, I think we both would agree that having truly fresh roasted beans makes the best coffee. 
 
-As fully bearded man, I was happy to see another bearded brother in arms behind the counter working the espresso machine, he was assisted by a lovely lavender haired lass that just added to the quirky creative feel that infused this place.  The real star however was the Nuova Simonelli Aurelia World Barista Championship branded espresso maker.  Anytime I see a place using a high end Italian espresso maker I know I will be in for a great experience.  This time proved no exception.
+As fully bearded man, I was happy to see another bearded brother in arms behind the counter working the espresso machine, he was assisted by a lovely lavender haired lass that just added to the quirky creative feel that infused this place.  
+
+The real star however was the Nuova Simonelli Aurelia World Barista Championship branded espresso maker.  Anytime I see a place using a high end Italian espresso maker I know I will be in for a great experience.  This time proved no exception.
 
 <center><figure>
     <a href="http://www.nuovasimonelli.it/en/prodotti/macchine-tradizionali/aurelia.html"><img src="/images/Aurelia_Competizione.jpg"></a>
