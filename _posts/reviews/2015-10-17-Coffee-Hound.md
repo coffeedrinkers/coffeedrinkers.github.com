@@ -43,7 +43,7 @@ From their website [coffeehound.net](http://coffeehound.net) I learned that ther
 
 > Owners Steve and April Fritzen have been in business since 2002, with two locations in Bloomington and Normal, Illinois. Our downtown Bloomington location is also home to our bakery and roastery. Both locations offer a unique feel— whether it be the more historical feel of Bloomington or the modern vibe of Normal— and both are always bustling with business.
 
-Yes, they roast their own beans!  Score.  I would learn this while waiting for my coffee, the barista was chatting with another customer and mentioned that they roasted all of their own coffee which they had for sale up front.  If you recall I tried my hand at roasting coffee in the past and Dan has done much more of it that me, I think we both would agree that having truly fresh roasted beans makes the best coffee. 
+**Yes, they roast their own beans!**  Score.  I would learn this while waiting for my coffee, the barista was chatting with another customer and mentioned that they roasted all of their own coffee which they had for sale up front.  If you recall I tried my hand at roasting coffee in the past and Dan has done much more of it that me, I think we both would agree that having truly fresh roasted beans makes the best coffee. 
 
 As fully bearded man, I was happy to see another bearded brother in arms behind the counter working the espresso machine, he was assisted by a lovely lavender haired lass that just added to the quirky creative feel that infused this place.  
 
