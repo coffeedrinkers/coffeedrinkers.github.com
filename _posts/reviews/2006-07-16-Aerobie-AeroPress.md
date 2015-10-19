@@ -24,3 +24,4 @@ I don’t pretend to know all about coffee, but I have been drinking it (always 
 The whole process is similar to a French press, except the AeroPress pushes the water through the coffee and filter, instead of pushing the grounds through water. One great advantage over the French press is that the filter of the AeroPress leaves NO sludge in your cup, like you get with a French press.
 
 The AeroPress is an inexpensive, sturdy piece of kitchen hardware that you shouldn’t be without, if you enjoy coffee. You should get one for the price alone. At least if you don’t like it, which I don’t see happening, you didn’t waste much money. Thanks to Aerobie, Inc. for giving me the opportunity to review this awesome product. 
+
