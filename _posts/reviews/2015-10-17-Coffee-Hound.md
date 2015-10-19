@@ -17,7 +17,9 @@ author:
 
 As graduates of ISU, my wife and I always enjoy an opportunity to visit the campus, marvel at whats new, and reflect on items from our past that have faded into history.
 
-After a less than stellar breakfast at a local diner, the family headed into CVS to buy some gloves to stave off the morning chill, while I decided to head over to the Coffeehound for something different to keep the cold away.  This wasn't my first time in the Coffeehound, about eighteen months earlier we were down for a visit and I stopped in for some coffee.  Given that it was still around, I thought it high time for a review.
+After a less than stellar breakfast at a local diner, the family headed into CVS to buy some gloves to stave off the morning chill, while I decided to head over to the Coffeehound for something different to keep the cold away.  
+
+This wasn't my first time in the Coffeehound, about eighteen months earlier we were down for a visit and I stopped in for some coffee.  Given that it was still around, I thought it high time for a review.
 
 <figure class="half">
 	<img src="/images/coffeehound1.jpg" alt="Coffeehound Image">
