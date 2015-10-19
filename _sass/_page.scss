@@ -69,8 +69,13 @@ span + .entry-title {
 	@include media($medium) {
 		@include font-size(48,yes,50);
 	}
+	/* 
 	@include media($large) {
 		@include font-size(64,yes,68);
+	} 
+	*/
+	@include media($large) {
+		@include font-size(48,yes,50);
 	}
 }
 
