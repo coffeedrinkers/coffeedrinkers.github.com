@@ -19,12 +19,12 @@ After a less than stellar breakfast at a local diner, the family headed into CVS
 
 <figure class="half">
 	<img src="/images/coffeehound1.jpg" alt="Coffeehound Image">
-	<img src="/images/coffeehound2.jpg" alt="Coffeehound Image">
 	<img src="/images/coffeehound3.jpg" alt="Coffeehound Image">	
-	<img src="/images/coffeehound4.jpg" alt="Coffeehound Image">
 	<img src="/images/coffeehound5.jpg" alt="Coffeehound Image">
 	<img src="/images/coffeehound6.jpg" alt="Coffeehound Image">
 	<img src="/images/coffeehound7.jpg" alt="Coffeehound Image">
+	<img src="/images/coffeehound2.jpg" alt="Coffeehound Image">
+	<img src="/images/coffeehound4.jpg" alt="Coffeehound Image">
 	<figcaption>2015 Coffeehound Excursion</figcaption>
 </figure>
 
