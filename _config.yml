@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: CoffeeDrinkers.org
+title: www.CoffeeDrinkers.org
 locale: en_US
 description: "Coffee Related News, Reviews & Opinions"
 logo: site-logo.png
 search: true
-url: http://coffeedrinkers.org
+url: http://www.coffeedrinkers.org
 
 # Jekyll configuration
 
