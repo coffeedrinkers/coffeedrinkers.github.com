@@ -37,7 +37,7 @@ For some reason the light seemed harsher, I noticed there were no birds or other
 
 As I rounded the corner my heart beat faster in anticipation, only to be smashed into a billion pieces when I saw that the pots (both!) were drained leaving a few drops and grounds as a grim reminder that there once was coffee.  The coffee vampires had hit, and I was the unwitting victim.
 
-My initial reaction of course was rage.
+My initial reaction of course was: **RAGE**
 
 ![Khan](/images/khaaaan-kirk.jpg){: .pull-center}
 
