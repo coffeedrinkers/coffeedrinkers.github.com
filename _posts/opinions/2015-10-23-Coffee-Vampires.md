@@ -38,8 +38,8 @@ For some reason the light seemed harsher, I noticed there were no birds or other
 As I rounded the corner my heart beat faster in anticipation, only to be smashed into a billion pieces when I saw that the pots (both!) were drained leaving a few drops and grounds as a grim reminder that there once was coffee.  The coffee vampires had hit, and I was the unwitting victim.
 
 My initial reaction of course was rage.
-<center>
-![Khan](/images/khaaaan-kirk.jpg){: .pull-center}</center>
+
+![Khan](/images/khaaaan-kirk.jpg){: .pull-center}
 
 **Why this pisses me off!**
 
@@ -60,8 +60,8 @@ Ok, so maybe that that might not happen, but it does lower my opinion of you.  A
 Fast forward to the beginning of this week.  I once again find myself walking down for some Joe.   And there is some!  I was happy and soon found myself laughing with what I saw next. 
 
 Some intrepid co-worker, god bless his or her soul, had had enough of the coffee vampires and left them a message.
-<center>
-![Message to Coffee Vampires](/images/vampire.png){: .pull-center}</center>
+
+![Message to Coffee Vampires](/images/vampire.png){: .pull-center}
 
 Bravo!  Bravo! You sir or madame are my new hero.  If you happen to read this blog, if you happen to see your message to the vampires know that you made a difference.
 
