@@ -19,21 +19,15 @@ author:
 If you have never heard of Organo coffee before, it is a brand of coffee whose global ambassador is none other than the golf legend Greg Norman.  Organo coffee is different from other brands of coffee in that it is infused with pure Ganoderma lucidum (aka reishi mushrooms).
 
 I have my wife to thank for the opportunity to try Organo coffee. My wife Karin is a village trustee for the town we live in (Oswego, IL) and as a result, she talks to a lot of people.  As a naturally friendly and chatty person, she is Leslie Knope to my Ron Swanson. 
-
 <figure>
     <img src="/images/leslie-ron.jpg"></a>
     <figcaption><a href="/images/leslie-ron.jpg" title="Leslie Knope & Ron Swanson">Leslie Knope & Ron Swanson</a>.</figcaption>
 </figure>
-
 A few weeks ago she was chatting with Jaratio Tucker whose son goes to school with our son Maverick.  It was then that she learned that Jaratio is a distributor for Organo Gold.  Naturally my wife told him about this site and before I knew it there was a knock on my door from Jaratio with some Organo Gold samples for me to try.
 
 Initially I had no clue that this coffee was infused with anything, I'll admit I didn't read the box, I didn't look at the website, I just put the coffee in the kitchen.  In retrospect this might have been the best possible thing to happen because I went into trying this coffee without no preconceived notions.
 
-There were two types of Organo Gold coffee that I had to sample: 
-
-* Black Gold Brew Cups
-* Cafe Supreme 
-
+There were two types of Organo coffee that I was given to sample -- Black Gold Brew Cups & Cafe Supreme.
 <figure>
     <img src="/images/organo-tested.png"></a>
     <figcaption><a href="/images/organo-tested.png" title="Organo Black Gold & Cafe Supreme Coffee"</a>.</figcaption>
