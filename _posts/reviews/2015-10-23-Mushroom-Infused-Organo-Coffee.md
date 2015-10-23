@@ -31,7 +31,7 @@ There were two types of Organo coffee that I was given to sample --
 **Black Gold Brew Cups** & **Cafe Supreme**.
 <figure>
     <img src="/images/organo-tested.png"></a>
-    <figcaption><a href="/images/organo-tested.png" title="Organo Black Gold & Cafe Supreme Coffee">Organo Black Gold & Cafe Supreme Coffee</figcaption>
+    <figcaption><a href="/images/organo-tested.png" title="Organo Black Gold & Cafe Supreme Coffee">Organo Black Gold & Cafe Supreme Coffee</a></figcaption>
 </figure>
 
 **Black Gold Brew Cups**
