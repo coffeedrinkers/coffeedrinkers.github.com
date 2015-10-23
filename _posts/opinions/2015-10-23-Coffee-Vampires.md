@@ -45,11 +45,11 @@ My initial reaction of course was rage.
 
 Honestly people, it takes less than one minute to :
 
-1) Pull out the coffee filter holder.
-2) Step five feet to the garbage can, rotate your wrist until the the coffee filter and used grounds falls into the garbage (You don't even have to touch it!).
-3) Walk five feet to the drawer, grab a filter and put it in the (now empty) filter holder.
-4) Grab a bag of coffee, empty it into the filter and replace the filter holder (it just slides right in!).
-5) Press the brew button.
+1. Pull out the coffee filter holder.
+2. Step five feet to the garbage can, rotate your wrist until the the coffee filter and used grounds falls into the garbage (You don't even have to touch it!).
+3. Walk five feet to the drawer, grab a filter and put it in the (now empty) filter holder.
+4. Grab a bag of coffee, empty it into the filter and replace the filter holder (it just slides right in!).
+5. Press the brew button.
 
 In less time than it took me to write that award winning narrative you could be a hero and not a zero.  You could make some hard working Tom, Dick or Harry like myself happy.  You could be the deliverer of the joy that is coffee.  **Don't you want to be a hero?**
 
