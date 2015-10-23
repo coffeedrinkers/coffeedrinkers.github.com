@@ -27,10 +27,11 @@ A few weeks ago she was chatting with Jaratio Tucker whose son goes to school wi
 
 Initially I had no clue that this coffee was infused with anything, I'll admit I didn't read the box, I didn't look at the website, I just put the coffee in the kitchen.  In retrospect this might have been the best possible thing to happen because I went into trying this coffee without no preconceived notions.
 
-There were two types of Organo coffee that I was given to sample -- Black Gold Brew Cups & Cafe Supreme.
+There were two types of Organo coffee that I was given to sample --  
+**Black Gold Brew Cups** & **Cafe Supreme**.
 <figure>
     <img src="/images/organo-tested.png"></a>
-    <figcaption><a href="/images/organo-tested.png" title="Organo Black Gold & Cafe Supreme Coffee"</a>.</figcaption>
+    <figcaption><a href="/images/organo-tested.png" title="Organo Black Gold & Cafe Supreme Coffee">Organo Black Gold & Cafe Supreme Coffee</figcaption>
 </figure>
 
 **Black Gold Brew Cups**
