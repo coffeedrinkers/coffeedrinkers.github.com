@@ -21,7 +21,7 @@ If you have never heard of Organo coffee before, it is a brand of coffee whose g
 I have my wife to thank for the opportunity to try Organo coffee. My wife Karin is a village trustee for the town we live in (Oswego, IL) and as a result, she talks to a lot of people.  As a naturally friendly and chatty person, she is Leslie Knope to my Ron Swanson. 
 <figure>
     <img src="/images/leslie-ron.jpg"></a>
-    <figcaption><a href="/images/leslie-ron.jpg" title="Leslie Knope & Ron Swanson">Leslie Knope & Ron Swanson</a>.</figcaption>
+    <figcaption><a href="/images/leslie-ron.jpg" title="Leslie Knope & Ron Swanson">Leslie Knope & Ron Swanson</a></figcaption>
 </figure>
 A few weeks ago she was chatting with Jaratio Tucker whose son goes to school with our son Maverick.  It was then that she learned that Jaratio is a distributor for Organo Gold.  Naturally my wife told him about this site and before I knew it there was a knock on my door from Jaratio with some Organo Gold samples for me to try.
 
