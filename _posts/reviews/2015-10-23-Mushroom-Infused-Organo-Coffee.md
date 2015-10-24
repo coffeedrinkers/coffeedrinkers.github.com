@@ -52,7 +52,7 @@ Overall I found both products to be enjoyable.  I'd honestly put them both solid
 
 <figure>
     <img src="/images/ganoderma.jpg"></a>
-    <figcaption><a href="/images/organo-tested.png" title="Ganoderma lucidum</a>.</figcaption>
+    <figcaption><a href="/images/ganoderma.jpg" title="Ganoderma lucidum">Ganoderma lucidum</a></figcaption>
 </figure>
 
 **Shrooms man! Shrooms!**
