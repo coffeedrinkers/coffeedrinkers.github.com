@@ -23,7 +23,7 @@ When your whole body aches, when your legs cry out with each step and when walki
 
 I don't honestly think I would be this bad of shape today if I hadn't decided to sprint the final quarter mile (or what felt like sprinting!) to the finish line.  Once I rounded that final turn and the finish line came into view, I had a surge of adrenaline and excitement, and all rational thought went out the window.
 
-In my head, I heard the gutteral scream of Leonidas from the movie 300 yelling "This is Sparta!" urging me to give it my all.  In my ears I heard Axl Rose welcoming me to the jungle and that was all it took.  
+In my head, I heard the gutteral scream of Leonidas from the movie 300 yelling "This is Sparta!" urging me to give it my all.  In my ear buds I heard Axl Rose welcoming me to the jungle and that was all it took.  
 <figure>
     <img src="/images/leo.jpg"></a>
     <figcaption><a href="/images/leo.jpg" title="The Mighty Leonidas from the Movie 300">The Mighty Leonidas from the Movie 300</a></figcaption>
