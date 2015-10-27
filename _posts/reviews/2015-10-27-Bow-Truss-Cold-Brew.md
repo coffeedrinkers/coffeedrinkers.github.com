@@ -13,9 +13,9 @@ comments: true
 share: true
 author: 
 ---
-![Bow Truss Cold Brew](/images/bowtruss-brew.png){: .pull-right}Today I decided to take a walk over to the [Bow Truss Roasters]'(http://bowtruss.com/) Chicago Loop location to give their Cold Brew a try.  Located just a few blocks from where I work, this journey would prove to be an epic undertaking.  To understand why, we need to go back to yesterday morning.
+![Bow Truss Cold Brew](/images/bowtruss-brew.png){: .pull-right}Today I decided to take a walk over to the [Bow Truss Roasters](http://bowtruss.com/)' Chicago Loop location to give their Cold Brew a try.  Located just a few blocks from where I work, this journey would prove to be an epic undertaking.  To understand why, we need to go back to yesterday morning.
 
-As autumn mornings go, Sunday the 26th was pretty amazing in Oswego, IL.  Cool, crisp air with ample sun and almost no wind.  It really was a perfect day for a running event, and at a little past eight in the morning I was at the Fraidycat 5k](http://www.fraidycat5k.com/) waiting for the race to start while my wife volunteered.  
+As autumn mornings go, Sunday the 26th was pretty amazing in Oswego, IL.  Cool, crisp air with ample sun and almost no wind.  It really was a perfect day for a running event, and at a little past eight in the morning I was at the Fraidycat 5k](http://www.fraidycat5k.com/) waiting for the race to start while my wife ran around volunteering.  
 
 Initially I was just going to walk the course, but my ego got the best of me and I decided to run (or what passes for running to me), and today my legs are toast.  I'm sure you know the soreness I am talking about.  
 
@@ -28,11 +28,11 @@ In my head, I heard the gutteral scream of Leonidas from the movie 300 yelling "
     <img src="/images/leo.jpg"></a>
     <figcaption><a href="/images/leo.jpg" title="The Mighty Leonidas from the Movie 300">The Mighty Leonidas from the Movie 300</a></figcaption>
 </figure>
-I ran like Forest Gump.  I ran my ass off despite my heart feeling like it was approaching *explosion* level.  I won't gloat, but let's just say I passed a few senior citizen during that epic sprint.  Which in hindsight is probably what kept my son who was running the 10k from lapping me which would have been soul crushing.
+I ran like Forest Gump.  I ran my ass off despite my heart feeling like it was approaching *explosion* level.  I won't gloat, but let's just say I passed a few senior citizen during that epic sprint.  
 
-So in an attempt to work some of the soreness out, I decided to head down to Bow Truss to try their cold brew.
+Which in hindsight is probably what kept my son who was running the 10k from lapping me which would have been soul crushing.
 
-Cold brewing is coffee is done by taking coarsely ground coffee and letting it soak in water (room temperature or chilled) for an extended period of time. 
+So in an attempt to work some of the soreness out, I decided to head down to Bow Truss to try their cold brew.  Cold brewing is coffee is done by taking coarsely ground coffee and letting it soak in water (room temperature or chilled) for an extended period of time. 
 
 > Cold brewing is often done as a way to lower the acidity of the coffee and in some cases can give the concentrate a sweeter flavor.  
 
