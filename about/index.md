@@ -8,7 +8,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-A long time ago (by Internet standards) there was a website called Brotherhood of the Bean.  It was a website fueled by coffee addicts.  Those addicts; myself (the owner), Dan Marchik (my old Army buddy) and a fellow lover of coffee named Olaf (yes, I knew an Olaf before the Frozen movie); drank coffee like there was no tomorrow and savored writing about our experiences. 
+A long time ago (by Internet standards) there was a website called Brotherhood of the Bean.  It was a website fueled by coffee addicts.  Those addicts included myself (the owner), Dan Marchik (my old Army buddy) and a fellow lover of coffee named Olaf (yes, I knew an Olaf before the Frozen movie).  We drank coffee like there was no tomorrow and savored writing about our experiences. 
 
 And then, Brotherhood of the Bean was hacked, well WordPress was, and I just didn't have the energy to do much more that quarantine the entire mess.
 
