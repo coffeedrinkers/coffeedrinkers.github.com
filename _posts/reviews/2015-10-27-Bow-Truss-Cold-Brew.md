@@ -15,7 +15,7 @@ author:
 ---
 ![Bow Truss Cold Brew](/images/bowtruss-brew.png){: .pull-right}Today I decided to take a walk over to the [Bow Truss Roasters](http://bowtruss.com/)' Chicago Loop location to give their Cold Brew a try.  Located just a few blocks from where I work, this journey would prove to be an epic undertaking.  To understand why, we need to go back to yesterday morning.
 
-As autumn mornings go, Sunday the 26th was pretty amazing in Oswego, IL.  Cool, crisp air with ample sun and almost no wind.  It really was a perfect day for a running event, and at a little past eight in the morning I was at the Fraidycat 5k](http://www.fraidycat5k.com/) waiting for the race to start while my wife ran around volunteering.  
+As autumn mornings go, Sunday the 26th was pretty amazing in Oswego, IL.  Cool, crisp air with ample sun and almost no wind.  It really was a perfect day for a running event, and at a little past eight in the morning I was at the [Fraidycat 5k](http://www.fraidycat5k.com/) waiting for the race to start while my wife ran around volunteering.  
 
 Initially I was just going to walk the course, but my ego got the best of me and I decided to run (or what passes for running to me), and today my legs are toast.  I'm sure you know the soreness I am talking about.  
 
