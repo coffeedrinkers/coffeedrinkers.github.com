@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hard Boiled Coffee"
-excerpt: "If its hot and humid enough, even the staunchest coffee drinker will look for alternative ways to enjoy coffee. This weekend some friends provided such an outlet for my coffee cravings - Espresso Truffles."
+excerpt: "Hard Boiled Coffee is java true to its name.  It roasts in the snarls of Duke Mantee in The Petrified Forest."
 modified: 
 categories: reviews
 tags: [Review]
