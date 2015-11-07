@@ -24,3 +24,5 @@ This is coffee not as it should be, but as it was meant to be. Rich. Savory.  Co
 > “Coffee’ll be ready soon.  We’ll have a cup and try again.” Sam Spade, giving Brigid O’Shaughnessy the score in *The Maltese Falcon*. 
 
 Arnie Bernstein is a nonfiction writer who lives in in the greatest of gangster movies and film noirs.  Join him for a cup of Hard Boiled at [www.arniebernstein.com](http://www.arniebernstein.com).
+
+Hardboiled Coffee is a Chicago based coffee roaster, for more information about Hardboiled Coffee head on over to their website at [hardboiledcoffee.com](http://hardboiledcoffeecompany.com).
