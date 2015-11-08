@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hard Boiled Coffee"
-excerpt: "Hard Boiled Coffee is java true to its name.  It roasts in the snarls of Duke Mantee in The Petrified Forest."
+excerpt: "Hard Boiled Coffee is java true to its name.  It roasts in the snarls of Duke Mantee in The Petrified Forest.  The smoky aroma is gunpowder snaking around Rocky Sullivan during his futile last stand in Angels with Dirty Faces."
 modified: 
 categories: reviews
 tags: [Review]
